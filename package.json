@@ -8,6 +8,7 @@
     "tailwindcss": "^4.1.13"
   },
   "scripts": {
-    "start": "tailwindcss -i ./input.css -o ./output.css --watch"
+    "start": "tailwindcss -i ./input.css -o ./output.css --watch",
+    "dev":"vite"
   }
 }
